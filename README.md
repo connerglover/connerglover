@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-273849?style=for-the-badge&logo=GitHub&logoColor=3da37a)](https://www.github.com/)
 [![Photoshop](https://img.shields.io/badge/Photoshop-273849?style=for-the-badge&logo=AdobePhotoshop&logoColor=3da37a)](https://www.adobe.com/products/photoshop.html)
 [![FontAwesome](https://img.shields.io/badge/FontAwesome-273849?style=for-the-badge&logo=FontAwesome&logoColor=3da37a)](https://fontawesome.com/)
-[![Kofi](https://img.shields.io/badge/FontAwesome-273849?style=for-the-badge&logo=FontAwesome&logoColor=3da37a)](https://fontawesome.com/)
+[![Kofi](https://img.shields.io/badge/Kofi-273849?style=for-the-badge&logo=Kofi&logoColor=3da37a)](https://ko-fi.com/connerlmao/)
 =
 
 [![ConnerConnerConner's GitHub stats](https://github-readme-stats.vercel.app/api?username=connerconnerconner&show_icons=true&hide_border=true&theme=vue-dark)](https://github.com/ConnerConnerConner/)
