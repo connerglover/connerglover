@@ -12,4 +12,5 @@
 [![ConnerConnerConner's Streak](https://github-readme-streak-stats.herokuapp.com?user=connerconnerconner&hide_border=true&theme=vue-dark)](https://github.com/ConnerConnerConner/)
 
 Hi, I'm Conner, I'm a developer. I've been developing for a little while and I mostly develop in Python.
+
 [![Kofi](https://img.shields.io/badge/Support me on Kofi-273849?style=for-the-badge&logo=Kofi&logoColor=3da37a)](https://ko-fi.com/O5O3F0OJN)
