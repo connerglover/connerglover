@@ -13,4 +13,4 @@
 
 Hi, I'm Conner, I'm a developer. I've been developing for a little while and I mostly develop in Python.
 
-[![Kofi](https://img.shields.io/badge/Support me on Kofi-273849?style=for-the-badge&logo=Kofi&logoColor=3da37a)](https://ko-fi.com/O5O3F0OJN)
+[![Kofi](https://img.shields.io/badge/Support%20me%20on%20Kofi-273849?style=for-the-badge&logo=Kofi&logoColor=3da37a)](https://ko-fi.com/O5O3F0OJN)
