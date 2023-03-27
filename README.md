@@ -4,7 +4,7 @@
 [![CSS](https://img.shields.io/badge/CSS-273849?style=for-the-badge&logo=CSS3&logoColor=3da37a)](https://en.wikipedia.org/wiki/CSS)
 [![VSCode](https://img.shields.io/badge/VSCode-273849?style=for-the-badge&logo=VisualStudioCode&logoColor=3da37a)](https://code.visualstudio.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-273849?style=for-the-badge&logo=GitHub&logoColor=3da37a)](https://www.github.com/)
-[![AffinityPhoto](https://img.shields.io/badge/Affinity-Photo-273849?style=for-the-badge&logo=AffinityPhoto&logoColor=3da37a)](https://affinity.serif.com/en-us/photo/)
+[![AffinityPhoto](https://img.shields.io/badge/Affinity%20Photo-273849?style=for-the-badge&logo=AffinityPhoto&logoColor=3da37a)](https://affinity.serif.com/en-us/photo/)
 [![FontAwesome](https://img.shields.io/badge/FontAwesome-273849?style=for-the-badge&logo=FontAwesome&logoColor=3da37a)](https://fontawesome.com/)
 
 
