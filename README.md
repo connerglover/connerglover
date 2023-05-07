@@ -8,8 +8,8 @@
 [![FontAwesome](https://img.shields.io/badge/FontAwesome-273849?style=for-the-badge&logo=FontAwesome&logoColor=3da37a)](https://fontawesome.com/)
 
 
-[![ConnerConnerConner's GitHub stats](https://github-readme-stats.vercel.app/api?username=connerconnerconner&show_icons=true&hide_border=true&theme=vue-dark)](https://github.com/ConnerConnerConner/)
-[![ConnerConnerConner's Streak](https://github-readme-streak-stats.herokuapp.com?user=connerconnerconner&hide_border=true&theme=vue-dark)](https://github.com/ConnerConnerConner/)
+[![ConnerConnerConner's GitHub stats](https://github-readme-stats.vercel.app/api?username=connerglover&show_icons=true&hide_border=true&theme=vue-dark)](https://github.com/ConnerConnerConner/)
+[![ConnerConnerConner's Streak](https://github-readme-streak-stats.herokuapp.com?user=connerglover&hide_border=true&theme=vue-dark)](https://github.com/ConnerConnerConner/)
 
 Hi, I'm Conner, I'm a developer. I've been developing for a little while and I mostly develop in Python.
 
